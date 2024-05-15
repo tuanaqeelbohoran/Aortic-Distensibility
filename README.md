@@ -1,3 +1,5 @@
+[info] More files will be added once we finish beta testing 
+
 **Abstract**:
 Aortic distensibility (AD) is important for the prognosis of multiple cardiovascular diseases. We propose a novel resource-efficient deep learning (DL) model, inspired by the bi-directional ConvLSTM U-Net with densely connected convolutions, to perform end-to-end hierarchical learning of the aorta from cine cardiovascular MRI towards streamlining AD quantification. Unlike current DL aortic segmentation approaches, our pipeline: (i) performs simultaneous spatio-temporal learning of the video input, (ii) combines the feature maps from the encoder and decoder using non-linear functions, and (iii) takes into account the high class imbalance. By using multi-centre multi-vendor data from a highly heterogeneous patient cohort, we demonstrate that the proposed method outperforms the state-of-the-art method in terms of accuracy and at the same time it consumes 
  3.9 times less fuel and generates 
