@@ -1,4 +1,4 @@
-[info] More files will be added once we finish beta testing at Lester Hospital Glenfield, UK.
+[info] More files will be added once we finish beta testing at Leicester Hospital Glenfield, UK.
 
 **Aortic Distensibility prediction by fully automated image segmentation**
 
